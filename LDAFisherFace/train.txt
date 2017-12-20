@@ -1,0 +1,43 @@
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 33.333333333333336 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 23.61111111111111 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 23.61111111111111 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 20.833333333333332 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 19.444444444444443 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 25.0 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 16.666666666666668 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 33.333333333333336 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 26.38888888888889 percent correct!
+training fisher face classifier
+size of training set is: 299 images
+predicting classification set
+got 23.61111111111111 percent correct!
+
+
+end score: 24.5833333333 percent correct!
