@@ -1,0 +1,10 @@
+# PersonalizedEmoji
+
+EmojiReplacement folder holds the code to replace the face with the personalized emoji that we get from our fisherface classifier
+based on the facial expression.
+
+svm folder holds the trainning data and the classifier implementation for SVM classifier.
+
+LDA folder holds the trainning data and the classifier implementation for SVM classifier.
+
+CNN.py is the classifier we build for using CNN method.
